@@ -1,4 +1,4 @@
-Deployment Link : https://statuesque-semolina-8e4456.netlify.app/
+Deployment Link : https://react-calculator-akash.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
